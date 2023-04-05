@@ -8,5 +8,6 @@ An autonomous navigation by a military tank towards its target such as another m
 
 ## Prerequisites
 
-First before going directly to project we need to know how things work so we need to understand some basic models
-[Wheat Seeds Dataset](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/).
+First before going directly to project we need to know how things work so we need to understand some basic models.
+
+-[Wheat Seeds Dataset](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/).
