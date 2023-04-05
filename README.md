@@ -18,7 +18,8 @@ First before going directly to project we need to know how things work so we nee
 
 -[Tracking by DeepSort](https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/).
 
-By understanding the above topics and  working on this project we get to Know
+**By understanding the above topics and  working on this project we get to Know
+
 ->What is Convolutional Neural Network And how it works.
 
 ->What is Yolo,Anchors,labling,Annotating,Darknet,Non_Max_Supression and why we use these things.
