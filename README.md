@@ -14,6 +14,11 @@ First before going directly to project we need to know how things work so we nee
 
 -[Yolo v3 paper](https://arxiv.org/abs/1506.02640).
 
--[Yolo v3 code with Darknet](https://github.com/heartkilla/yolo-v3).
+-[Yolo v3 code with Darknet](https://github.com/heartkilla/yolo-v3/blob/master/yolo_v3.py).
 
 -[Tracking by DeepSort](https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/).
+
+By understanding the above topics and  working on this project we get to Know
+->What is Convolutional Neural Network And how it works.
+->What is Yolo,Anchors,labling,Annotating,Darknet,Non_Max_Supression and why we use these things.
+->How our algorithms get trained and tested and predicted.
