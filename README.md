@@ -8,6 +8,7 @@ An autonomous navigation by a military tank towards its target such as another m
 
 ## Prerequisites
 
+![cars](https://github.com/Rakeshreddysr2401/Militarytank_Detection_Tracking/tree/main/outputs/cars.avi).\
 First before going directly to project we need to know how things work so we need to understand some basic models.
 
 -[Wheat Seeds Dataset](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/).
